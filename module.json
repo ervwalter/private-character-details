@@ -3,8 +3,8 @@
 	"title": "Private Character Details",
 	"description": "This module allows you to hide selected tabs from the 5e character sheet.",
 	"minimumCoreVersion": "0.7.6",
-	"compatibleCoreVersion": "0.7.6",
-	"version": "1.0.0",
+	"compatibleCoreVersion": "0.7.9",
+	"version": "1.0.1",
 	"author": "Erv Walter",
 	"systems": ["dnd5e"],
 	"styles": [
